@@ -38,4 +38,16 @@ Implementing few more features so that AniMap Radio can become a streaming platf
 
 
 
-## Build with ❤ by <a href ="https://github.com/rajivranjanmars" >Rajiv Ranjan </a> , <a href ="https://github.com/starlightknown" >Karuna Tata </a>,<a href ="https://github.com/vinzvinci" >Vincent Villafuerte</a> and <a href ="https://github.com/D-zero-7" >Dheeraj </a> 
+## Build with ❤ by <a href ="https://github.com/rajivranjanmars" >Rajiv Ranjan </a> , <a href ="https://github.com/starlightknown" >Karuna Tata </a>,<a href ="https://github.com/vinzvinci" >Vincent Villafuerte</a> and <a href ="https://github.com/D-zero-7" >Dheeraj </a>
+
+## Repository overview
+
+Static anime music and gallery website built with HTML, CSS, and JavaScript. It combines anime theme tracks, character photo galleries, and an anime-history experience.
+
+## Local use
+
+Run `python -m http.server 8000` from this directory, then open `http://localhost:8000/`. No package installation or build step is required.
+
+## Author
+
+Author: [rajivranjanmars](https://rajivranjana.in).
