@@ -50,4 +50,4 @@ Run `python -m http.server 8000` from this directory, then open `http://localhos
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
